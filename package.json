@@ -22,5 +22,8 @@
   },
   "scripts": {
     "build": "webpack"
+  },
+  "dependencies": {
+    "raw-loader": "^4.0.0"
   }
 }
